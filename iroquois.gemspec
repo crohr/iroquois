@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Iroquois::VERSION
   gem.authors       = ["Cyril Rohr"]
   gem.email         = ["cyril.rohr@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Iroquois !}
+  gem.summary       = %q{Command line tool for pkgr.io}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
